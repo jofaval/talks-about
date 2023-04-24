@@ -12,6 +12,12 @@ Introduction and explanation of some JavaScript concepts, some are weird, others
 
 ## Web Scraping
 
-[Talks can be found here](./concepts-of-js/)
+[Talks can be found here](./web-scraping//)
 
 Introduction, overview of different approaches and technologies, acquire breadth and depth of different scraping technologies.
+
+## Frontend
+
+[Talks can be found here](./frontend/)
+
+Frontend focused talks, I won't limit the definition here, so go check it out!
