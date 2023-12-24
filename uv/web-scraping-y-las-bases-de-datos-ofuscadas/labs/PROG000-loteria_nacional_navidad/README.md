@@ -28,11 +28,17 @@ https://www.nacionalloteria.es/loteria-navidad/Comprobar-Loteria-Navidad.php?num
 
 Evaluar las distintas páginas
 
-**PISTA**: si la página es diferente que la de "No has ganado" es que tiene premio (y así no hace falta evaluar a mano todos los números :D)
+<details>
+<summary>
+<strong>PISTA</strong>
+</summary>
+
+Si la página es diferente que la de "No has ganado" es que tiene premio (y así no hace falta evaluar a mano todos los números :D)
+</details>
 
 ### Formato del número
 
-A fecha de escritura, n <= 99999, no tiene por qué tener left padding (12 pasaría 00012)
+A fecha de escritura, `n <= 99999`, no tiene por qué tener _left padding_ (`12 pasaría a ser 00012`)
 
 ## Salida
 
@@ -40,13 +46,13 @@ Debes devolver (o insertar en BDD):
 
 - Número de lotería
 - Si ha ganado o no
-    - 0 -> no
-    - 1 -> sí
+    - `0 -> no`
+    - `1 -> sí`
 - Si ha ganado, cuánto por décimo
 - Total ganado de este número
 
 También interesa que, al final del programa, se anuncie:
 
-- Dinero total jugado (num_decimo * participacion)
-- Dinero total ganado (num_decimo * din_decimo)
-- Balance total (total_ganado - total_jugado)
+- Dinero total jugado (`num_decimo * participacion`)
+- Dinero total ganado (`num_decimo * din_decimo`)
+- Balance total (`total_ganado - total_jugado`)
