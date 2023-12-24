@@ -1,91 +1,55 @@
+# Web Scraping y las Bases de Datos Ofuscadas
 
+Catedra de Universidad de Valencia con Capgemini
 
-    Bases de Datos, poniendo en situación
-        Definir un esquema (una estructura de los datos)
-        Ingesta de datos (escritura/almacenamiento)
-            Extracción de datos, de dónde vienen?
-                API
-                IoT
-                Explotación (autogenerados de otros datos)
-        Consulta de datos
-            Objetivo final de los datos
-            Warehouse y Lake, mencionar su existencia
-        Vale, pero… ¿qué son los datos?
-            Google indexa las páginas, los sitios web tienen mucha información que se puede explotar ? Definición de a qué se refieren
-            Pirámide del conocimiento, dato ? información ? conocimiento ? sabiduría
-        Bases de Datos Ofuscadas
-            Similitudes entre una BDD y páginas que no proporcionan información amigablemente
-    Web Scraping
-        Lenguaje de marcas (HTML, XML)
-        Pipeline
-            Petición (request)
-            Interpretación (parser)
-            Extracción (la chicha)
-            ¿¿¿Y ahora qué???
-                Análisis
-                Almacenamiento físico estructurado
-                Alimentar una BDD
-                etc
-        Laboratorio, primeros pasos con web scraping
-            Aquí escogería unas pocas páginas webs que no den mucho problema al respecto
-    Defensa ante ataques de Web Scraping
-        Siendo el negocio con la página, ¿qué harías para protegerte?
-            Problemas de los “ataques“
-                ¿Son maliciosos? no necesariamente
-            robots.txt, tener respeto por la página
-        Problemas que causan el web scraping
-            Escalabilidad, DDoS involuntario
-            Competidores y la competencia del siglo XXI
-            Throttling, agentes web
-            Ofuscamiento (classnames, )
-            Involuntariamente, frameworks y SPAs
-        Laboratorio, problemas del web scraping en páginas modernas
-            Amazon, Google imágenes, buscaría más páginas como ejemplos
-    Headless Web Scraping
-        Qué es un headless browser?
-            Chromium
-        ¿Qué nos ofrece?
-            Conexión ininterrumpida
-            Simular un usuario
-            Interactuar con la página automáticamente
-        ¿Por qué lo necesitamos?
-            Frameworks y SPAs
-            Interactuar con la página
-                Siguiente página de un resultado
-                Filtrar por categorías
-                Contenido de un artículo solo visible al hacer scroll
-        Selenium, playwright, puppeteer
-            También usados para testing e2e
-        Laboratorio, headless browser, la información a nuestro alcance
-    Testing
-        ¿Se puede testear el web scraping?
-        E2E testing - End-to-End
-            ¿Qué es?
-            ¿Qué implicaciones tendríamos en cuenta?
-        ¿Nos hace falta?
-            Los malos tests
-            Mantenimiento de los tests
-            Empresas dedicadas
-        Ejemplos de baterías de pruebas de web scraping
-    Recapitulando
-        Requisitos de una Bases de Datos
-        Web Scraping y las Bases de Datos ofuscadas
-        Headless Web Scraping
-        Opciones profesionales de web scraping
-            Scrapy
-            BrightData
-                https://www.youtube.com/watch?v=qo_fUjb02ns
-                ?
-                	
-                Industrial-scale Web Scraping with AI & Proxy Networks
-                Learn advanced web scraping techniques with Puppeteer and BrightData's scraping browser. We collect ecommerce data from sites like Amazon then analyze that data with ChatGPT. #javascript #datascience #chatgpt Get $10 Credit for BrightData https://get.brightdata.com/fireship Puppeteer Docs https://pptr.dev
-                www.youtube.com
-        Créditos (haré por que sea una slide)
+## Bases de Datos
 
+### Diagrama de Flujo
 
 ```mermaid
 flowchart LR
     A[Esquema]-->B[Ingesta de Datos]
     B-->C[Consulta de Datos]
-    C---->D[Análisis de Datos]
+    C---->D[AnÃ¡lisis de Datos]
+```
+
+## Web Scraping
+
+### BÃ¡sico
+
+```mermaid
+flowchart TD
+    A[HTTP GET]-->|Consulta|B[Server devuelve HTML]
+    B-->|Respuesta|C[Parseo del HTML]
+    C-->|BÃºsqueda|D[ExtracciÃ³n de los datos]
+
+    D-->E[XML]
+    D-->F[xPath]
+    D-->G[querySelector]
+
+    E-->|Ingesta|H[Base de Datos]
+    F-->|Ingesta|H
+    G-->|Ingesta|H
+```
+
+### Headless
+
+```mermaid
+flowchart TD
+    A[Iniciar headless browser]-->|ConexiÃ³n|B[Entrar en la pÃ¡gina]
+    B-->|Servidor responde, el navegador sigue conectado|C[Server devuelve HTML]
+    C-->|Carga de recursos e interpretaciÃ³n del JavaScript de la pÃ¡gina|D[Headless browser interpreta el HTML]
+    D-->|Clicar en ver mÃ¡s informaciÃ³n, ver comentarios, etc.|E[Interacciones de usuario necesarias]
+    E-->|Se obtiene el contenido deseado|F[Parseo del HTML]
+    F-->|Se interpretan los datos|G[ExtracciÃ³n de los datos]
+
+    G-->|Sigue navegando|E
+
+    G-->|BÃºsqueda|H[XML]
+    G-->|BÃºsqueda|I[xPath]
+    G-->|BÃºsqueda|J[querySelector]
+
+    H-->|Ingesta|K[Base de Datos]
+    I-->|Ingesta|K
+    J-->|Ingesta|K
 ```
