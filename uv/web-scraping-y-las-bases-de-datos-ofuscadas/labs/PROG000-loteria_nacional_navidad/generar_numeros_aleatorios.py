@@ -15,6 +15,9 @@ BASE_PATH = os.path.dirname(__file__)
 DATA_PATH = os.path.join(BASE_PATH, "data")
 WINNERS_FILE = os.path.join(BASE_PATH, "numeros_ganadores.txt")
 
+CSV_SEPARATOR = ";"
+CSV_HEADERS = ["lottery_number", "quantity", "amount_per_participation"]
+
 
 class CliArguments(BaseModel):
     quantity: int
@@ -60,7 +63,7 @@ def get_winners() -> List[str]:
 
 
 def write_numbers(numbers: List[str], index: int):
-    filename = os.path.join(DATA_PATH, f"file-{str(index).zfill(3)}.txt")
+    filename = os.path.join(DATA_PATH, f"file-{str(index).zfill(3)}.csv")
     with open(filename, "w+", encoding=ENCODING) as file:
         file.write(JUMP_LINE.join(numbers))
 
@@ -76,12 +79,33 @@ def get_shuffled_numbers(winners: List[str], amount: int):
     return numbers
 
 
+MAX_QUANTITY = 10
+MAX_AMOUNT_PER_PARTICIPATION = 20
+
+
+def aggregate_details(numbers: List[str]):
+    aux = numbers
+    numbers = [CSV_SEPARATOR.join(CSV_HEADERS)]
+
+    for number in aux:
+        quantity = random.randint(1, MAX_QUANTITY)
+        per_participation = random.randint(0, MAX_AMOUNT_PER_PARTICIPATION)
+
+        numbers.append(CSV_SEPARATOR.join(
+            [number, str(quantity), str(per_participation)]
+        ))
+
+    return numbers
+
+
 def generate_random_numbers(args: CliArguments):
     winners = get_winners()
     amount = args.quantity - len(winners)
 
     for index in range(1, args.files+1):
-        write_numbers(get_shuffled_numbers(winners, amount), index)
+        write_numbers(aggregate_details(
+            get_shuffled_numbers(winners, amount)
+        ), index)
 
 
 def main():

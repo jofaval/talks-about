@@ -1,0 +1,4 @@
+pydantic==1.9.0
+bs4==0.0.1
+cchardet==2.1.7
+requests==2.27.1
