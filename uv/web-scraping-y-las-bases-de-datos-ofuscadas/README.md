@@ -32,6 +32,9 @@ flowchart TD
     G-->|Ingesta|H
 ```
 
+clarifying
+simplifying
+
 ### Headless
 
 ```mermaid
