@@ -21,3 +21,27 @@ Introduction, overview of different approaches and technologies, acquire breadth
 [Talks can be found here](./frontend/)
 
 Frontend focused talks, I won't limit the definition here, so go check it out!
+
+# Knowledge Sharing
+
+[Talks can be found here](./knowledge-sharing/)
+
+Talks to mentees or internal department. Mainly, but not exclusively, about tech
+
+# UV - Universitat de València
+
+[Talks can be found here](./uv/)
+
+Part of the Catedra UV program
+
+# BeeR Tech
+
+[Talks can be found here](./BeeR-Tech/)
+
+Part of a series of talks to promote knowledge sharing in the business and department
+
+# Book Club
+
+[Talks can be found here](./book-club/)
+
+Book initiative to read and share knowledge internally
