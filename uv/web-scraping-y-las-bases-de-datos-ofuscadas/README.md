@@ -2,6 +2,8 @@
 
 Catedra de Universidad de Valencia con Capgemini
 
+Taller: [https://github.com/jofaval/girls4stem-web-scraping](https://github.com/jofaval/girls4stem-web-scraping)
+
 ## Bases de Datos
 
 ### Diagrama de Flujo
