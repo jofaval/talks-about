@@ -2,8 +2,8 @@
 
 ## Schedule
 
-|:  Time  :|:                 Description                  :|
-|----------|------------------------------------------------|
+|   Time   |                  Description                   |
+|:--------:|:----------------------------------------------:|
 |  1h 15m  |  Introduction and glimpse of the next section  |
 |   30m    |        Break to recover attention span         |
 |  1h 15m  |        Intermediate and up to advanced         |
