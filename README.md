@@ -4,6 +4,8 @@ About... stuff.
 
 This project hasn't being reviewed, approved or endorsed by the Rust Project or Foundation.
 
+To see the complete log of talks I have given, checkout the [TALKLOG](./TALKLOG.md)
+
 ## Concepts of JavaScript
 
 [Talks can be found here](./concepts-of-js/)
