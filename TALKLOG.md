@@ -1,5 +1,7 @@
 # Talklog
 
+If you're looking for my biography, check it out at [BIOGRAPHY.md](./BIOGRAPHY.md)
+
 In the spirit of a changelog I will try my best to compile talks I have given with somewhat of date accuracy. The will be sorted from most recent to oldest
 
 I will consider it a talk to register here when it is not a one to one mentoring, knowledge sharing conversation. It will have to be to multiple people, wether it be online or in-person (maybe a mix).
