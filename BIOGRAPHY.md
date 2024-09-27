@@ -39,7 +39,7 @@ Within software development. I feel a predilection for the product development i
 
 
 
-I am a person with a lot of curiosity, I like to read (romance and essays mostly), I enjoy walking around to clear my head and enjoy I enjoy walking to clear my mind and I enjoy deep conversations with my friends.
+I am a person with a lot of curiosity, I like to read (romance and essays mostly), I enjoy walking around to clear my mind and I enjoy deep conversations with my friends.
 
 
 
@@ -47,4 +47,4 @@ I am a person with a lot of curiosity, I like to read (romance and essays mostly
 
 
 
-Senior Software Developer with experience in multiple industries. I have a predilection for product development in all its facets and software architecture vision. I am a very person with a lot of curiosity, I enjoy reading, walking and talking.
+Senior Software Developer with experience in multiple industries. I have a predilection for product development in all its facets and software architecture vision. I am a person with a lot of curiosity, I enjoy reading, walking and talking.
