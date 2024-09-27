@@ -8,6 +8,10 @@ To checkout all the talks I have given, please take a look at my [TALKLOG.md](./
 
 Pepe Fabra Valverde
 
+### Pronouns
+
+he/him/his
+
 ### Location
 
 Valencia, España / Spain
