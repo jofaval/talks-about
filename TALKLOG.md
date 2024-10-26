@@ -8,6 +8,10 @@ I will consider it a talk to register here when it is not a one to one mentoring
 
 ## 2024
 
+### October
+
+- [Phone Operator Client] Git and Github
+
 ### September
 
 - [[Capgemini] Twelve-Factor App](https://github.com/jofaval/talks-about/tree/master/BeeR-Tech/twelve-factor-app)
