@@ -21,7 +21,7 @@ People who think Typescript is a flat language with no learning curve whatsoever
 
 ## Purpose
 
-Hindley-Milner perspective and influence on common coding typing
+Hindley-Milner perspective and influence on common coding and typing
 
 Type vs interface
 Inference and generics
