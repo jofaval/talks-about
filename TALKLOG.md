@@ -10,7 +10,7 @@ I will consider it a talk to register here when it is not a one to one mentoring
 
 ### October
 
-- [Phone Operator Client] Git and Github
+- [[Phone Operator Client] Git and Github](https://github.com/jofaval/talks-about/tree/master/eShop-devtalk/git-and-github)
 
 ### September
 
