@@ -8,6 +8,15 @@ I will consider it a talk to register here when it is not a one to one mentoring
 
 ## 2024
 
+### December
+
+- [[Valencia JS] Programaci贸n Funcional y Conceptos de JavaScript](https://github.com/jofaval/talks-about/tree/master/tech-talks/valencia-js/programacion-funcional)
+- [[Capgemini - SDO] Git and Github](https://github.com/jofaval/talks-about/tree/master/eShop-devtalk/git-and-github)
+
+### November
+
+- [[Capgemini] Headless UI](https://github.com/jofaval/talks-about/tree/master/BeeR-Tech/headless-ui)
+
 ### October
 
 - [[Phone Operator Client] Git and Github](https://github.com/jofaval/talks-about/tree/master/eShop-devtalk/git-and-github)
@@ -22,8 +31,8 @@ I will consider it a talk to register here when it is not a one to one mentoring
 
 ### April
 
-- [[Universitat de Val鑞cia | Data Science] Web Scraping y las Bases de Datos Ofuscadas](https://github.com/jofaval/talks-about/blob/master/uv/web-scraping-y-las-bases-de-datos-ofuscadas/%5BNLP%5D%20Web%20Scraping%20y%20las%20Bases%20de%20Datos%20Ofuscadas.pdf)
-- [[Universitat de Val鑞cia | Software Engineering] Web Scraping y las Bases de Datos Ofuscadas](https://github.com/jofaval/talks-about/blob/master/uv/web-scraping-y-las-bases-de-datos-ofuscadas/%5BREVISED%5D%20Web%20Scraping%20y%20las%20Bases%20de%20Datos%20Ofuscadas.pdf)
+- [[Universitat de Val猫ncia | Data Science] Web Scraping y las Bases de Datos Ofuscadas](https://github.com/jofaval/talks-about/blob/master/uv/web-scraping-y-las-bases-de-datos-ofuscadas/%5BNLP%5D%20Web%20Scraping%20y%20las%20Bases%20de%20Datos%20Ofuscadas.pdf)
+- [[Universitat de Val猫ncia | Software Engineering] Web Scraping y las Bases de Datos Ofuscadas](https://github.com/jofaval/talks-about/blob/master/uv/web-scraping-y-las-bases-de-datos-ofuscadas/%5BREVISED%5D%20Web%20Scraping%20y%20las%20Bases%20de%20Datos%20Ofuscadas.pdf)
 
 ### March
 
@@ -33,11 +42,11 @@ I will consider it a talk to register here when it is not a one to one mentoring
 
 ### May
 
-- [[Capgemini] Conceptos de JavaScript - Closure, Alto Orden y Ciudadan韆 de primera clase](https://github.com/jofaval/talks-about/tree/master/concepts-of-js/closure-high-order-and-first-class-citizens)
+- [[Capgemini] Conceptos de JavaScript - Closure, Alto Orden y Ciudadan铆a de primera clase](https://github.com/jofaval/talks-about/tree/master/concepts-of-js/closure-high-order-and-first-class-citizens)
 
 ### April
 
-- [[Capgemini] Conceptos de JavaScript - Memoizaci髇, comparaci髇 de valores y serializaci髇](https://github.com/jofaval/talks-about/tree/master/concepts-of-js/memoization-serialization-and-value-comparison)
+- [[Capgemini] Conceptos de JavaScript - Memoizaci贸n, comparaci贸n de valores y serializaci贸n](https://github.com/jofaval/talks-about/tree/master/concepts-of-js/memoization-serialization-and-value-comparison)
 
 ### March
 
