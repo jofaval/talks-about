@@ -15,7 +15,7 @@ I will consider it a talk to register here when it is not a one to one mentoring
 
 ### November
 
-- 29/11/2024 [[Capgemini] Headless UI](https://github.com/jofaval/talks-about/tree/master/BeeR-Tech/headless-ui)
+- 29/11/2024 [[Capgemini - BeeR Tech] Headless UI](https://github.com/jofaval/talks-about/tree/master/BeeR-Tech/headless-ui)
 
 ### October
 
@@ -23,7 +23,7 @@ I will consider it a talk to register here when it is not a one to one mentoring
 
 ### September
 
-- 27/09/2024 [[Capgemini] Twelve-Factor App](https://github.com/jofaval/talks-about/tree/master/BeeR-Tech/twelve-factor-app)
+- 27/09/2024 [[Capgemini - BeeR Tech] Twelve-Factor App](https://github.com/jofaval/talks-about/tree/master/BeeR-Tech/twelve-factor-app)
 
 ### June
 
@@ -36,18 +36,18 @@ I will consider it a talk to register here when it is not a one to one mentoring
 
 ### March
 
-- 22/03/2024 [[Capgemini] Una breve historia de ADRs](https://github.com/jofaval/talks-about/tree/master/BeeR-Tech/adrs)
+- 22/03/2024 [[Capgemini - BeeR Tech] Una breve historia de ADRs](https://github.com/jofaval/talks-about/tree/master/BeeR-Tech/adrs)
 
 ## 2023
 
 ### June
 
-- 29/06/2023 [[Capgemini] Conceptos de JavaScript - Closure, Alto Orden y Ciudadanía de primera clase](https://github.com/jofaval/talks-about/tree/master/concepts-of-js/closure-high-order-and-first-class-citizens)
+- 29/06/2023 [[Capgemini - TechTalk] Conceptos de JavaScript - Closure, Alto Orden y Ciudadanía de primera clase](https://github.com/jofaval/talks-about/tree/master/concepts-of-js/closure-high-order-and-first-class-citizens)
 
 ### May
 
-- 25/05/2023 [[Capgemini] Conceptos de JavaScript - Memoización, comparación de valores y serialización](https://github.com/jofaval/talks-about/tree/master/concepts-of-js/memoization-serialization-and-value-comparison)
+- 25/05/2023 [[Capgemini - TechTalk] Conceptos de JavaScript - Memoización, comparación de valores y serialización](https://github.com/jofaval/talks-about/tree/master/concepts-of-js/memoization-serialization-and-value-comparison)
 
 ### April
 
-- 27/04/2023 [[Capgemini] Conceptps de JavaScript - Pureza, efectos secundarios e idempotencia](https://github.com/jofaval/talks-about/tree/master/concepts-of-js/pureness-side-effects-and-idempotence)
+- 27/04/2023 [[Capgemini - TechTalk] Conceptps de JavaScript - Pureza, efectos secundarios e idempotencia](https://github.com/jofaval/talks-about/tree/master/concepts-of-js/pureness-side-effects-and-idempotence)
