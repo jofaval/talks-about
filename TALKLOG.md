@@ -10,7 +10,7 @@ I will consider it a talk to register here when it is not a one to one mentoring
 
 ### December
 
-- 05/12/2024 [[Valencia JS] Programación Funcional y Conceptos de JavaScript](https://github.com/jofaval/talks-about/tree/master/tech-talks/valencia-js/programacion-funcional)
+- 05/12/2024 [[Valencia JS] Programación Funcional y Conceptos de JavaScript](https://www.meetup.com/valenciajs/events/303901269/)
 - 04/12/2024 [[Capgemini - SDO] Git and Github](https://github.com/jofaval/talks-about/tree/master/eShop-devtalk/git-and-github)
 
 ### November
