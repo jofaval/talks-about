@@ -6,8 +6,13 @@
 
 ## Not placed in time
 
+- El poder oculto de las CLIs
 - Git course
 - FullStack pills
+
+## April
+
+- Web Scraping y las Bases de Datos ofuscadas
 
 ## February
 
@@ -15,5 +20,4 @@
 
 ## January
 
-- El poder oculto de las CLIs
 - Arquitecturas Front, Event Loop, Event Sourcing, Event Journal, Event-Driven Architecture & Kafka
