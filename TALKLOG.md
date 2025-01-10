@@ -6,6 +6,12 @@ In the spirit of a changelog I will try my best to compile talks I have given wi
 
 I will consider it a talk to register here when it is not a one to one mentoring, knowledge sharing conversation. It will have to be to multiple people, wether it be online or in-person (maybe a mix).
 
+## 2025
+
+### January
+
+- 10/01/2025 [[Capgemini x EDEM] Event Loop, Event Sourcing, Event Journal, Event-Driven Architecture & Kafka](https://github.com/jofaval/talks-about/tree/master/knowledge-sharing/event-loop)
+
 ## 2024
 
 ### December
