@@ -5,6 +5,7 @@ About... stuff.
 This project hasn't being reviewed, approved or endorsed by the Rust Project or Foundation.
 
 To see the complete log of talks I have given, checkout the [TALKLOG](./TALKLOG.md)
+If you want to see what I have planned for the near future, checkout my [ROADMAP](./ROADMAP.md)
 
 ## Concepts of JavaScript
 

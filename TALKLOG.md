@@ -6,48 +6,54 @@ In the spirit of a changelog I will try my best to compile talks I have given wi
 
 I will consider it a talk to register here when it is not a one to one mentoring, knowledge sharing conversation. It will have to be to multiple people, wether it be online or in-person (maybe a mix).
 
+## 2025
+
+### January
+
+- 10/01/2025 [[Capgemini x EDEM] Event Loop, Event Sourcing, Event Journal, Event-Driven Architecture & Kafka](https://github.com/jofaval/talks-about/tree/master/knowledge-sharing/event-loop)
+
 ## 2024
 
 ### December
 
-- [[Valencia JS] Programación Funcional y Conceptos de JavaScript](https://github.com/jofaval/talks-about/tree/master/tech-talks/valencia-js/programacion-funcional)
-- [[Capgemini - SDO] Git and Github](https://github.com/jofaval/talks-about/tree/master/eShop-devtalk/git-and-github)
+- 05/12/2024 [[Valencia JS] Programación Funcional y Conceptos de JavaScript](https://www.meetup.com/valenciajs/events/303901269/)
+- 04/12/2024 [[Capgemini - SDO] Git and Github](https://github.com/jofaval/talks-about/tree/master/eShop-devtalk/git-and-github)
 
 ### November
 
-- [[Capgemini] Headless UI](https://github.com/jofaval/talks-about/tree/master/BeeR-Tech/headless-ui)
+- 29/11/2024 [[Capgemini - BeeR Tech] Headless UI](https://github.com/jofaval/talks-about/tree/master/BeeR-Tech/headless-ui)
 
 ### October
 
-- [[Phone Operator Client] Git and Github](https://github.com/jofaval/talks-about/tree/master/eShop-devtalk/git-and-github)
+- 25/10/2024 [[Phone Operator Client] Git and Github](https://github.com/jofaval/talks-about/tree/master/eShop-devtalk/git-and-github)
 
 ### September
 
-- [[Capgemini] Twelve-Factor App](https://github.com/jofaval/talks-about/tree/master/BeeR-Tech/twelve-factor-app)
+- 27/09/2024 [[Capgemini - BeeR Tech] Twelve-Factor App](https://github.com/jofaval/talks-about/tree/master/BeeR-Tech/twelve-factor-app)
 
 ### June
 
-- [[VLC Tech Fest] El impacto del web scraping en la era digital](https://www.youtube.com/watch?v=APTUWZtd8RI)
+- 08/06/2024 [[VLC Tech Fest] El impacto del web scraping en la era digital](https://www.youtube.com/watch?v=APTUWZtd8RI)
 
 ### April
 
-- [[Universitat de València | Data Science] Web Scraping y las Bases de Datos Ofuscadas](https://github.com/jofaval/talks-about/blob/master/uv/web-scraping-y-las-bases-de-datos-ofuscadas/%5BNLP%5D%20Web%20Scraping%20y%20las%20Bases%20de%20Datos%20Ofuscadas.pdf)
-- [[Universitat de València | Software Engineering] Web Scraping y las Bases de Datos Ofuscadas](https://github.com/jofaval/talks-about/blob/master/uv/web-scraping-y-las-bases-de-datos-ofuscadas/%5BREVISED%5D%20Web%20Scraping%20y%20las%20Bases%20de%20Datos%20Ofuscadas.pdf)
+- 19/04/2024 [[Universitat de València | Data Science] Web Scraping y las Bases de Datos Ofuscadas](https://github.com/jofaval/talks-about/blob/master/uv/web-scraping-y-las-bases-de-datos-ofuscadas/%5BNLP%5D%20Web%20Scraping%20y%20las%20Bases%20de%20Datos%20Ofuscadas.pdf)
+- 12/04/2024 [[Universitat de València | Software Engineering] Web Scraping y las Bases de Datos Ofuscadas](https://github.com/jofaval/talks-about/blob/master/uv/web-scraping-y-las-bases-de-datos-ofuscadas/%5BREVISED%5D%20Web%20Scraping%20y%20las%20Bases%20de%20Datos%20Ofuscadas.pdf)
 
 ### March
 
-- [[Capgemini] Una breve historia de ADRs](https://github.com/jofaval/talks-about/tree/master/BeeR-Tech/adrs)
+- 22/03/2024 [[Capgemini - BeeR Tech] Una breve historia de ADRs](https://github.com/jofaval/talks-about/tree/master/BeeR-Tech/adrs)
 
 ## 2023
 
+### June
+
+- 29/06/2023 [[Capgemini - TechTalk] Conceptos de JavaScript - Closure, Alto Orden y Ciudadanía de primera clase](https://github.com/jofaval/talks-about/tree/master/concepts-of-js/closure-high-order-and-first-class-citizens)
+
 ### May
 
-- [[Capgemini] Conceptos de JavaScript - Closure, Alto Orden y Ciudadanía de primera clase](https://github.com/jofaval/talks-about/tree/master/concepts-of-js/closure-high-order-and-first-class-citizens)
+- 25/05/2023 [[Capgemini - TechTalk] Conceptos de JavaScript - Memoización, comparación de valores y serialización](https://github.com/jofaval/talks-about/tree/master/concepts-of-js/memoization-serialization-and-value-comparison)
 
 ### April
 
-- [[Capgemini] Conceptos de JavaScript - Memoización, comparación de valores y serialización](https://github.com/jofaval/talks-about/tree/master/concepts-of-js/memoization-serialization-and-value-comparison)
-
-### March
-
-- [[Capgemini] Conceptps de JavaScript - Pureza, efectos secundarios e idempotencia](https://github.com/jofaval/talks-about/tree/master/concepts-of-js/pureness-side-effects-and-idempotence)
+- 27/04/2023 [[Capgemini - TechTalk] Conceptps de JavaScript - Pureza, efectos secundarios e idempotencia](https://github.com/jofaval/talks-about/tree/master/concepts-of-js/pureness-side-effects-and-idempotence)
