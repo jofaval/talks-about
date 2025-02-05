@@ -1,0 +1,27 @@
+# Engineering Strategies
+
+Son **estrategias** para mejorar la **experiencia de desarrollo**
+
+# que es una estrategia
+
+
+caminos, pasos y procedimientos para conseguir un objetivo
+
+
+# que es experiencia de desarrollo
+
+
+coña de al fin ser sénior
+
+# flujo
+
+top down bottom up, devolverle el foco al desarrollador
+- No solamente para top down, devuelve parte del foco al desarrollador
+
+# DORA framework
+
+https://www.linkedin.com/posts/lauratacho_the-easier-it-is-for-you-to-create-a-dora-activity-7153762975336587264-Fvjy?utm_source=share&utm_medium=member_android
+
+# referencias
+
+aleix morgadas
