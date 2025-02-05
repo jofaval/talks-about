@@ -20,15 +20,15 @@ Valencia, España / Spain
 
 ### Bio
 
-Desarrollador de Software Sénior; he trabajado en e-commerce, smart building, banca, smart water, device management. Sin miedo a nuevos horizontes he disfrutado implicándome en experiencia cubriendo el end to end de una idea; front, back, despliegue, gestión del producto.
+Desarrollador de Software Senior; he trabajado en e-commerce, smart building, banca, smart water, device management. Sin miedo a nuevos horizontes he disfrutado implicándome en profundidad ante los retos que he tenido oportunidad de abordar, con experiencia cubriendo el end to end de una idea; front, back, despliegue, gestión del producto.
 
 Dentro del desarrollo de software, siento una predilección por el desarrollo de producto en todas sus facetas y la visión de arquitectura de software.
 
-Soy una persona con mucha curiosidad, me gusta leer (romance y ensayos mayormente), disfruto de pasear para despejarme y disfruto enormemente de conversaciones profundas con mis amistades.
+Soy una persona con mucha curiosidad, me gusta leer (romance y ensayos mayormente), paseo para despejarme y me encantan las conversaciones profundas con mis amistades.
 
 ### Short
 
-Desarrollador de Software Sénior con experiencia en múltiples sectores. Siento una predilección por el desarrollo de producto en todas sus facetas y la visión de arquitectura de software. Soy una persona con mucha curiosidad, disfruto leyendo, paseando y conversando.
+Desarrollador de Software Senior con experiencia en múltiples sectores. Siento una predilección por el desarrollo de producto en todas sus facetas y la visión de arquitectura de software. Soy una persona con mucha curiosidad, disfruto leyendo, paseando y conversando.
 
 ## English
 
@@ -43,7 +43,7 @@ Within software development. I feel a predilection for the product development i
 
 
 
-I am a person with a lot of curiosity, I like to read (romance and essays mostly), I enjoy walking around to clear my mind and I enjoy deep conversations with my friends.
+I am a person with a lot of curiosity, I like to read (romance and essays mostly), I enjoy walking around to clear my mind and love deep conversations with my friends.
 
 
 
