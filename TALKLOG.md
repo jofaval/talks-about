@@ -8,6 +8,8 @@ I will consider it a talk to register here when it is not a one to one mentoring
 
 ## 2025
 
+Total:
+
 ### February
 
 - 12/02/2025 [[Universitat de València] El poder oculto de las CLIs](./uv/el-poder-oculto-de-las-clis)
@@ -19,6 +21,8 @@ I will consider it a talk to register here when it is not a one to one mentoring
 - 10/01/2025 [[Capgemini x EDEM] Event Loop, Event Sourcing, Event Journal, Event-Driven Architecture & Kafka](https://github.com/jofaval/talks-about/tree/master/knowledge-sharing/event-loop)
 
 ## 2024
+
+Total: 9
 
 ### December
 
@@ -51,6 +55,8 @@ I will consider it a talk to register here when it is not a one to one mentoring
 - 22/03/2024 [[Capgemini - BeeR Tech] Una breve historia de ADRs](https://github.com/jofaval/talks-about/tree/master/BeeR-Tech/adrs)
 
 ## 2023
+
+Total: 3
 
 ### June
 
