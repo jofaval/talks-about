@@ -8,8 +8,14 @@ I will consider it a talk to register here when it is not a one to one mentoring
 
 ## 2025
 
+### February
+
+- 12/02/2025 [[Universitat de València] El poder oculto de las CLIs](./uv/el-poder-oculto-de-las-clis)
+- 06/02/2025 [[Valencia JS] La magia de TypeScript](./tech-talks/valencia-js/la-magia-de-typescript)
+
 ### January
 
+- 31/01/2025 [Capgemini] BeeR Tech: Q&A
 - 10/01/2025 [[Capgemini x EDEM] Event Loop, Event Sourcing, Event Journal, Event-Driven Architecture & Kafka](https://github.com/jofaval/talks-about/tree/master/knowledge-sharing/event-loop)
 
 ## 2024
@@ -25,7 +31,7 @@ I will consider it a talk to register here when it is not a one to one mentoring
 
 ### October
 
-- 25/10/2024 [[Phone Operator Client] Git and Github](https://github.com/jofaval/talks-about/tree/master/eShop-devtalk/git-and-github)
+- 25/10/2024 [[Telco Client] Git and Github](https://github.com/jofaval/talks-about/tree/master/eShop-devtalk/git-and-github)
 
 ### September
 
