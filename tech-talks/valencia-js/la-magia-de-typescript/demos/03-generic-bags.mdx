@@ -1,0 +1,38 @@
+# Generic Bags
+
+## Caso de uso
+
+```tsx
+type Example<T1, T2, T3 = false, T4 = false, T5 = false> = {
+    a: string;
+    b: number;
+}
+
+// quiero modificar T5 a `true`
+
+type Result = Example<any, any, false, false, true>
+```
+
+## Con Generic Bags
+
+```tsx
+type Example<T extends GenericBag> = {
+    a: string;
+    b: number;
+}
+
+// quiero modificar T5 a `true`
+
+type Result = Example<{ T1: "", T2: "", T5: true }>
+```
+
+### Implementación
+```tsx
+type GenericBag = {
+    T1: any;
+    T2: any;
+    T3?: boolean;
+    T4?: boolean;
+    T5?: boolean;
+}
+```

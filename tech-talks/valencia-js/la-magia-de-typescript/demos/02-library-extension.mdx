@@ -1,0 +1,16 @@
+# Extensión de librerías
+
+## Extender tipo de una librería
+
+```tsx
+// vite-env.d.ts
+import { Request, Response } from 'express';
+
+declare module 'express' {
+  export interface Request {
+    user: {
+      id: string;
+    };
+  }
+}
+```

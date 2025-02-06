@@ -1,0 +1,75 @@
+# Enums
+
+## TypeScript nativo
+
+```tsx
+enum Direction {
+  Up = 1,
+  Down,
+  Left,
+  Right,
+}
+```
+
+### En consola
+
+```tsx
+{
+    '1': 'Up',
+    '2': 'Down',
+    '3': 'Left',
+    '4': 'Right',
+    Up: 1,
+    Down: 2,
+    Left: 3,
+    Right: 4
+}
+```
+
+## TypeScript con valores personalizados
+
+```tsx
+enum Direction {
+  Up = 'UP',
+  Down = 'DOWN',
+  Left = 'LEFT',
+  Right = 'RIGHT',
+}
+```
+
+### En consola
+
+```tsx
+{
+    Up: 'UP',
+    Down: 'DOWN',
+    Left: 'LEFT',
+    Right: 'RIGHT',
+    'UP': 'Up',
+    'DOWN': 'Down',
+    'LEFT': 'Left',
+    'RIGHT': 'Right'
+}
+```
+
+## TypeScript con valores mixtos
+
+```tsx 
+const DirectionDictionary = {
+  Up: 1,
+  Down: 'DOWN',
+  Left: 'LEFT',
+  Right: 'RIGHT',
+} as const;
+```
+
+### En consola
+
+```tsx
+{
+    Up: 1,
+    Down: 'DOWN',
+    Left: 'LEFT',
+    Right: 'RIGHT'
+}
+```
