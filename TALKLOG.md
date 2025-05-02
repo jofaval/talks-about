@@ -36,7 +36,7 @@ Total: 9
 
 ### December
 
-- 05/12/2024 [[Valencia JS] Programación Funcional y Conceptos de JavaScript](https://www.meetup.com/valenciajs/events/303901269/)
+- **In-person** 05/12/2024 [[Valencia JS] Programación Funcional y Conceptos de JavaScript](https://www.meetup.com/valenciajs/events/303901269/)
 - **Remote** 04/12/2024 [[Capgemini - SDO] Git and Github](https://github.com/jofaval/talks-about/tree/master/eShop-devtalk/git-and-github)
 
 ### November
