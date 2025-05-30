@@ -18,7 +18,7 @@ Total: 7
 ### March
 
 - **In-person** 28/03/2025 [Universidad Politécnica de Valencia] Tech Pill - Frontend Frameworks
-- **In-person** 28/03/2025[Universidad Politécnica de Valencia] Tech Pill - Frontend
+- **In-person** 28/03/2025[Universidad Politécnica de Valencia] Tech Pill - Frontend Fundamentals
 
 ### February
 
