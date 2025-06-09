@@ -10,14 +10,22 @@
 - Git course
 - FullStack pills
 
-## April
+### October
+
+- Los Superpoderes de Github Projects
+
+### July
+
+- Lo que se supone que hacemos, pero se nos olvida
+
+### April
 
 - Web Scraping y las Bases de Datos ofuscadas
 
-## February
+### February
 
 - TypeScript Workshop: La magia de TypeScript
 
-## January
+### January
 
 - Arquitecturas Front, Event Loop, Event Sourcing, Event Journal, Event-Driven Architecture & Kafka
