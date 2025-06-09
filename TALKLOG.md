@@ -8,7 +8,25 @@ I will consider it a talk to register here when it is not a one to one mentoring
 
 ## 2025
 
-Total: 7
+Total: 16
+
+### July
+
+- **Remote** 24/07/2025 [Capgemini - Summer Workshops] Lo que se supone que hacemos, pero se nos olvida
+
+### June
+
+- **In-person** 14/06/2025 [VLC Tech Fest] No entiendes tu proyecto... y yo tampoco
+- **Remote** 13/06/2025 [Capgemini - HR] Software by the book
+- **Remote** 11/06/2025 [Capgemini - HR] High-level Software Architecture
+- **Remote** 09/06/2025 [Capgemini - HR] DevOps and DBAs
+- **Remote** 06/06/2025 [Capgemini - HR] Modern Frontends
+- **Remote** 04/06/2025 [Capgemini - HR] Backend with microservices
+- **Remote** 02/06/2025 [Capgemini - HR] Software Development
+
+### May
+
+- **Remote** 14/05/2025 [Capgemini] _Moderator_: Jorge Castaño - Nunca serás Senior si vas solo
 
 ### April
 
