@@ -8,7 +8,16 @@ I will consider it a talk to register here when it is not a one to one mentoring
 
 ## 2025
 
-Total: 16
+Total: 19
+
+### October
+
+- **In-person** 03/10/2025 [Universidad Politécnica de Valencia] Tech Pill - Git
+
+### September
+
+- **Remote** 19/09/2025 [Capgemini] Functional Programming: Concurrency, Actor Model and State Machines
+- **Remote** 12/09/2025 [Capgemini] Functional Programming: 101 Introduction
 
 ### July
 
@@ -30,7 +39,7 @@ Total: 16
 
 ### April
 
-- **In-person** 30/04/2025 [[Universita | Data Science] Web Scraping y las Bases de Datos Ofuscadas]((https://github.com/jofaval/talks-about/blob/master/uv/web-scraping-y-las-bases-de-datos-ofuscadas/%5BNLP%5D%20Web%20Scraping%20y%20las%20Bases%20de%20Datos%20Ofuscadas.pdf))
+- **In-person** 30/04/2025 [[Universitat de València | Data Science] Web Scraping y las Bases de Datos Ofuscadas]((https://github.com/jofaval/talks-about/blob/master/uv/web-scraping-y-las-bases-de-datos-ofuscadas/%5BNLP%5D%20Web%20Scraping%20y%20las%20Bases%20de%20Datos%20Ofuscadas.pdf))
 - **Remote** 11/04/2025 [Capgemini - Javantastic News] _Moderator_: Parallelism, concurrency and locks on Java
 
 ### March
