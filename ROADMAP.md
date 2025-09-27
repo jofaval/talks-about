@@ -8,3 +8,7 @@
 
 - Los Superpoderes de Github Projects
 - TypeScript workshops
+
+### October
+
+- High-Potential Technical Booster - Kickoff, Gitflow & Modern Architectures
