@@ -8,11 +8,27 @@ I will consider it a talk to register here when it is not a one to one mentoring
 
 ## 2025
 
-Total: 19
+Total: 29
+
+### November
+
+Total: 1
+
+- **In-person** 06/11/2025 [Universidad Politécnica de Valencia] Refactoring: Code Smells and Design Patterns. Gilded Rose Kata
 
 ### October
 
-- **In-person** 03/10/2025 [Universidad Politécnica de Valencia] Tech Pill - Git
+Total: 9
+
+- **Remote** 24/10/2025 [[Capgemini x EDEM] Gitflow, Github Projects, Event Sourcing, Event Journal, Event-Driven Architecture and Modern Software & Solutions Architecture](https://github.com/jofaval/talks-about/tree/master/knowledge-sharing/event-loop)
+- **Remote** 23/10/2025 [Capgemini x AWS] Interview with the spanish golden jackets #2 and #3 Luis Miguel Bastante Quijano & Jesus Alcoba Castillo
+- **In-person** 17/10/2025 [Universidad Politécnica de Valencia] Pull Requests & Code Reviews. Best Practices and Workflows
+- **In-person** 17/10/2025 [Universidad Politécnica de Valencia] Github Advanced Features. Actions, Packages, Provider and Projects
+- **In-person** 17/10/2025 [Universidad Politécnica de Valencia] Git Workflows, Methodologies and Philosophies. Best practices
+- **In-person** 17/10/2025 [Universidad Politécnica de Valencia] Git's Mental Model. Key Concepts to Understand Git
+- **In-person** 17/10/2025 [Universidad Politécnica de Valencia] Introduction to Git and its applicability
+- **Remote** 15/10/2025 [[Capgemini | External] Technitive - Functional Programming: The new trend](https://www.youtube.com/watch?v=7qctutx3qO4)
+- **Remote** 10/10/2025 [Capgemini] Frontend Happy Hour: Manage state so that it doesn't manage you
 
 ### September
 
