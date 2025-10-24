@@ -12,13 +12,9 @@ Total: 29
 
 ### November
 
-Total: 1
-
 - **In-person** 06/11/2025 [Universidad Politécnica de Valencia] Refactoring: Code Smells and Design Patterns. Gilded Rose Kata
 
 ### October
-
-Total: 9
 
 - **Remote** 24/10/2025 [[Capgemini x EDEM] Gitflow, Github Projects, Event Sourcing, Event Journal, Event-Driven Architecture and Modern Software & Solutions Architecture](https://github.com/jofaval/talks-about/tree/master/knowledge-sharing/event-loop)
 - **Remote** 23/10/2025 [Capgemini x AWS] Interview with the spanish golden jackets #2 and #3 Luis Miguel Bastante Quijano & Jesus Alcoba Castillo
