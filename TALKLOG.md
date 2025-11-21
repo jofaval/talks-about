@@ -8,11 +8,13 @@ I will consider it a talk to register here when it is not a one to one mentoring
 
 ## 2025
 
-Total: 29
+Total: 31
 
 ### November
 
-- **In-person** 06/11/2025 [Universidad Politécnica de Valencia] Refactoring: Code Smells and Design Patterns. Gilded Rose Kata
+- **In-person** 27/11/2025 [Universidad Politécnica de Valencia] Refactoring: Code Smells and Design Patterns. Gilded Rose Kata
+- **Remote** 26/11/2025 [[Capgemini] TypeScript: Inferences, Generics and Overwhelming stuff](https://github.com/jofaval/talks-about/tree/master/tech-talks/valencia-js/la-magia-de-typescript)
+- **Remote** 20/11/2025 [[Capgemini] TypeScript: Mental Model, Primitives and Fundamentlas](https://github.com/jofaval/talks-about/tree/master/tech-talks/valencia-js/la-magia-de-typescript)
 
 ### October
 
