@@ -8,7 +8,11 @@ I will consider it a talk to register here when it is not a one to one mentoring
 
 ## 2025
 
-Total: 31
+Total: 33
+
+### December
+
+- **Remote** 05/12/2025 [Capgemini] 2025 Community Recap. Closing for Christmas and New Year
 
 ### November
 
@@ -39,6 +43,7 @@ Total: 31
 
 ### June
 
+- **Remote** 27/06/2025 [Capgemini] SDO, Closing for the summer, H1 Community Recap
 - **In-person** 14/06/2025 [VLC Tech Fest] No entiendes tu proyecto... y yo tampoco
 - **Remote** 13/06/2025 [Capgemini - HR] Software by the book
 - **Remote** 11/06/2025 [Capgemini - HR] High-level Software Architecture
