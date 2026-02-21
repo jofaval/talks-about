@@ -12,6 +12,8 @@ Total: 2
 
 ### February
 
+- **Remote** 21/02/2026 [Capgemini x EDEM - (HiPo) High Potential Technical Booster] ¿Y Ahora Qué?
+- **Remote** 20/02/2026 [Capgemini] Web Scraping y las Bases de Datos ofuscadas
 - **Remote** 06/02/2026 [Capgemini] Bragging Document: Take your career into your own hands
 
 ### January
@@ -34,7 +36,7 @@ Total: 33
 
 ### October
 
-- **Remote** 24/10/2025 [[Capgemini x EDEM] Gitflow, Github Projects, Event Sourcing, Event Journal, Event-Driven Architecture and Modern Software & Solutions Architecture](https://github.com/jofaval/talks-about/tree/master/knowledge-sharing/event-loop)
+- **Remote** 24/10/2025 [[Capgemini x EDEM - (HiPo) High Potential Technical Booster] Gitflow, Github Projects, Event Sourcing, Event Journal, Event-Driven Architecture and Modern Software & Solutions Architecture](https://github.com/jofaval/talks-about/tree/master/knowledge-sharing/event-loop)
 - **Remote** 23/10/2025 [Capgemini x AWS] Interview with the spanish golden jackets #2 and #3 Luis Miguel Bastante Quijano & Jesus Alcoba Castillo
 - **In-person** 17/10/2025 [Universidad Politécnica de Valencia] Pull Requests & Code Reviews. Best Practices and Workflows
 - **In-person** 17/10/2025 [Universidad Politécnica de Valencia] Github Advanced Features. Actions, Packages, Provider and Projects
@@ -86,7 +88,7 @@ Total: 33
 ### January
 
 - **Remote** 31/01/2025 [Capgemini] BeeR Tech: Q&A
-- **Remote** 10/01/2025 [[Capgemini x EDEM] Event Loop, Event Sourcing, Event Journal, Event-Driven Architecture & Kafka](https://github.com/jofaval/talks-about/tree/master/knowledge-sharing/event-loop)
+- **Remote** 10/01/2025 [[Capgemini x EDEM - (HiPo) High Potential Technical Booster] Event Loop, Event Sourcing, Event Journal, Event-Driven Architecture & Kafka](https://github.com/jofaval/talks-about/tree/master/knowledge-sharing/event-loop)
 
 ## 2024
 
