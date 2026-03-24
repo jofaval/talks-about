@@ -8,7 +8,12 @@ I will consider it a talk to register here when it is not a one to one mentoring
 
 ## 2026
 
-Total: 4
+Total: 5
+
+### March
+
+- **In-person** 24/03/2026 [Universitat de València] Intro to React.js
+    * attendees: ~40, duration: 2h
 
 ### February
 
