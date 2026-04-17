@@ -23,11 +23,11 @@ Total: 6
 ### February
 
 - **Remote** 21/02/2026 [Capgemini x EDEM - (HiPo) High Potential Technical Booster] ¿Y Ahora Qué?
-	* attendees: 19, duration: 3h, retention: 100%, rating: 4.96
+	* attendees: 19, duration: 3h, retention: 100%, rating: 4.96/5
 - **Remote** 20/02/2026 [Capgemini] Web Scraping y las Bases de Datos ofuscadas
-	* attendees: 361, duration: 34m 30s, retention: 80.69%, rating: 4.41
+	* attendees: 361, duration: 34m 30s, retention: 80.69%, rating: 4.41/5
 - **Remote** 06/02/2026 [Capgemini] Bragging Document: Take your career into your own hands
-	* attendees: 452, duration: 32m, retention: 79.54%, rating: 4.64
+	* attendees: 452, duration: 32m, retention: 79.54%, rating: 4.64/5
 
 ### January
 
@@ -41,23 +41,23 @@ Total: 33
 ### December
 
 - **Remote** 05/12/2025 [Capgemini] 2025 Community Recap. Closing for Christmas and New Year
-	* attendees: 208, duration: 20m, retention: 76.94%, rating: 4.8
+	* attendees: 208, duration: 20m, retention: 76.94%, rating: 4.8/5
 
 ### November
 
 - **In-person** 27/11/2025 [Universidad Politécnica de Valencia] Refactoring: Code Smells and Design Patterns. Gilded Rose Kata
 	* attendees: 9, duration: 1h
 - **Remote** 26/11/2025 [[Capgemini] TypeScript: Inferences, Generics and Overwhelming stuff](https://github.com/jofaval/talks-about/tree/master/tech-talks/valencia-js/la-magia-de-typescript)
-	* attendees: 100, duration: 45m 30s, retention: 62.42%, rating: 4.56
+	* attendees: 100, duration: 45m 30s, retention: 62.42%, rating: 4.56/5
 - **Remote** 20/11/2025 [[Capgemini] TypeScript: Mental Model, Primitives and Fundamentlas](https://github.com/jofaval/talks-about/tree/master/tech-talks/valencia-js/la-magia-de-typescript)
-	* attendees: 157, duration: 55m 30s, retention: 67.25%, rating: 4.53
+	* attendees: 157, duration: 55m 30s, retention: 67.25%, rating: 4.53/5
 
 ### October
 
 - **Remote** 24/10/2025 [[Capgemini x EDEM - (HiPo) High Potential Technical Booster] Gitflow, Github Projects, Event Sourcing, Event Journal, Event-Driven Architecture and Modern Software & Solutions Architecture](https://github.com/jofaval/talks-about/tree/master/knowledge-sharing/event-loop)
-	* attendees: 20, duration: 2h 30m, retention: 100%, rating: 4.82
+	* attendees: 20, duration: 2h 30m, retention: 100%, rating: 4.82/5
 - **Remote** 23/10/2025 [Capgemini x AWS] Interview with the spanish golden jackets #2 and #3 Luis Miguel Bastante Quijano & Jesus Alcoba Castillo
-	* attendees: 127, duration: 49m, retention: 55.90%, rating: 5
+	* attendees: 127, duration: 49m, retention: 55.90%, rating: 5/5
 - **In-person** 17/10/2025 [Universidad Politécnica de Valencia] Pull Requests & Code Reviews. Best Practices and Workflows
 - **In-person** 17/10/2025 [Universidad Politécnica de Valencia] Github Advanced Features. Actions, Packages, Provider and Projects
 - **In-person** 17/10/2025 [Universidad Politécnica de Valencia] Git Workflows, Methodologies and Philosophies. Best practices
@@ -66,14 +66,14 @@ Total: 33
 - **Remote** 15/10/2025 [[Capgemini | External] Technitive - Functional Programming: The new trend](https://www.youtube.com/watch?v=7qctutx3qO4)
 	* attendees: 50, duration: 40m
 - **Remote** 10/10/2025 [Capgemini] Frontend Happy Hour: Manage state so that it doesn't manage you
-	* attendees: 144, duration: 27m, retention: 68.75%, rating: 4.56
+	* attendees: 144, duration: 27m, retention: 68.75%, rating: 4.56/5
 
 ### September
 
 - **Remote** 19/09/2025 [Capgemini] Functional Programming: Concurrency, Actor Model and State Machines
-	* attendees: 237, duration: 50m 45s, retention: 67.00%, rating: 4.55
+	* attendees: 237, duration: 50m 45s, retention: 67.00%, rating: 4.55/5
 - **Remote** 12/09/2025 [Capgemini] Functional Programming: 101 Introduction
-	* attendees: 289, duration: 57m 15s, retention: 69.01%, rating: 4.33
+	* attendees: 289, duration: 57m 15s, retention: 69.01%, rating: 4.33/5
 
 ### July
 
@@ -83,7 +83,7 @@ Total: 33
 ### June
 
 - **Remote** 27/06/2025 [Capgemini] SDO, Closing for the summer, H1 Community Recap
-	* attendees: 115, duration: 19m 30s, retention: 79.18%, rating: 4.94
+	* attendees: 115, duration: 19m 30s, retention: 79.18%, rating: 4.94/5
 - **In-person** 14/06/2025 [VLC Tech Fest] No entiendes tu proyecto... y yo tampoco
 	* attendees: 30, duration: 30m
 - **Remote** 13/06/2025 [Capgemini - HR] Software by the book
@@ -102,14 +102,14 @@ Total: 33
 ### May
 
 - **Remote** 14/05/2025 [Capgemini] _Moderator_: Jorge Castaño - Nunca serás Senior si vas solo
-	* attendees: 416, duration: 1h 22m, retention: 60.20%, rating: 4.59
+	* attendees: 416, duration: 1h 22m, retention: 60.20%, rating: 4.59/5
 
 ### April
 
 - **In-person** 30/04/2025 [[Universitat de València | Data Science] Web Scraping y las Bases de Datos Ofuscadas]((https://github.com/jofaval/talks-about/blob/master/uv/web-scraping-y-las-bases-de-datos-ofuscadas/%5BNLP%5D%20Web%20Scraping%20y%20las%20Bases%20de%20Datos%20Ofuscadas.pdf))
 	* attendees: 20, duration: 2h
 - **Remote** 11/04/2025 [Capgemini - Javantastic News] _Moderator_: Parallelism, concurrency and locks on Java
-	* attendees: 225, duration: 39m 15s, retention: 66.99%, rating: 3.92
+	* attendees: 225, duration: 39m 15s, retention: 66.99%, rating: 3.92/5
 
 ### March
 
@@ -126,7 +126,7 @@ Total: 33
 ### January
 
 - **Remote** 31/01/2025 [Capgemini] BeeR Tech: Q&A
-	* attendees: 31, duration: 10m, retention: 71.45%, rating: 4.5
+	* attendees: 31, duration: 10m, retention: 71.45%, rating: 4.5/5
 - **Remote** 10/01/2025 [[Capgemini x EDEM - (HiPo) High Potential Technical Booster] Event Loop, Event Sourcing, Event Journal, Event-Driven Architecture & Kafka](https://github.com/jofaval/talks-about/tree/master/knowledge-sharing/event-loop)
 	* attendees: 20, duration: 2h
 
@@ -149,7 +149,7 @@ Total: 9
 ### October
 
 - **Remote** 25/10/2024 [[Telco Client] Git and Github](https://github.com/jofaval/talks-about/tree/master/eShop-devtalk/git-and-github)
-	* attendees: 12, duration: 40m, retention: 100%, rating: 5
+	* attendees: 12, duration: 40m, retention: 100%, rating: 5/5
 
 ### September
 
