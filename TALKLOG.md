@@ -8,10 +8,12 @@ I will consider it a talk to register here when it is not a one to one mentoring
 
 ## 2026
 
-Total: 6
+Total: 7
 
 ### April
 
+- **In-person** 29/04/2026 [Universitat de València | Masters in Web, Cloud Computing and Mobile] Event-Driven Architecture & Kafka
+    * attendees: 14, duration: 2h 30m
 - **In-person** 16/04/2026 [[Universitat de València | Data Science] Web Scraping y las Bases de Datos Ofuscadas]((https://github.com/jofaval/talks-about/blob/master/uv/web-scraping-y-las-bases-de-datos-ofuscadas/%5BNLP%5D%20Web%20Scraping%20y%20las%20Bases%20de%20Datos%20Ofuscadas.pdf))
     * attendees: 24, duration: 2h 15m
 
